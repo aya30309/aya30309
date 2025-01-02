@@ -10,7 +10,7 @@
 - **Programming Languages:** C#, SQL, C++, Python
 - **Web Development:** ASP.NET Core MVC, Flask, HTML/CSS, JavaScript
 - **Database Management:** SQL Server, Entity Framework
-- **Tools:** Visual Studio, SSMS, Git
+- **Tools:** Visual Studio , Git
 
 ---
 
