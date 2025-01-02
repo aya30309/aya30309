@@ -1,17 +1,36 @@
-### Hi there 👋
-## test1
-# test2
-<!--
-**aya30309/aya30309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Aya Samir Mohamed Said Selim
 
-Here are some ideas to get you started:
+🎓 **Computer Science Student** at **Tanta University**  
+💻 **Aspiring .NET Developer** | Passionate about backend development and software engineering  
+🌱 Currently learning **ASP.NET Core**, **Entity Framework**, and **SQL Server**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+- **Programming Languages:** C#, SQL, C++, Python
+- **Web Development:** ASP.NET Core MVC, Flask, HTML/CSS, JavaScript
+- **Database Management:** SQL Server, Entity Framework
+- **Tools:** Visual Studio, SSMS, Git
+
+---
+
+## 📂 Featured Projects
+
+### [Fast Food Management System](https://github.com/aya30309/Fast-Food-Management-)  
+- **Description:** A fast food management system built with Flask and SQL Server.  
+- **Features:**  
+  - Showcases database triggers, functions, and stored procedures.  
+  - Provides an efficient management system for fast-food chains.  
+
+### [ProjectFront](https://github.com/aya30309/ProjectFront)  
+- **Description:** Frontend implementation of a web application for streamlined user interaction.  
+
+---
+
+## 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ayasamirselim/)  
+- 📧 aya.samir.mohamed.selim@gmail.com  
+
+---
+
+✨ **"Striving to create impactful software solutions that make a difference!"**
