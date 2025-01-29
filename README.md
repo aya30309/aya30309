@@ -29,7 +29,7 @@
 
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ayasamirselim/)  
-- 📧 aya.samir.mohamed.selim@gmail.com  
+- 📧 ayasamir1810@gmail.com 
 
 ---
 
